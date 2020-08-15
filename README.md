@@ -1,2 +1,2 @@
 # coursera_test
-Coursera 2nd course repository
+Coursera's 2nd course repository
